@@ -1,5 +1,8 @@
 # ToscaExecutionClient
 
+http://localhost:90/automationobjectservice/swagger/index.html
+https://github.com/Tricentis/ToscaExecutionClient
+
       - task: PowerShell@2
         inputs:
           filePath: $(System.DefaultWorkingDirectory)\tosca_execution_client.ps1
