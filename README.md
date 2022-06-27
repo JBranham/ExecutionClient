@@ -13,7 +13,7 @@ https://github.com/Tricentis/ToscaExecutionClient
             -eventsConfigFilePath "testEvents.json"
             -clientId "jFoM6R2JeES2QX-yimEfYg"
             -clientSecret "yzrpQKziLEqQb-EsK3_tLAcwZU_FiYCEC3BYurGd_g4A"
-            -creator "ToscaExecutionClient ADO Pipeline"
+            -creator "ToscaExecutionClient"
             -resultsFileName "results.xml"
             -resultsFolderPath "results"
             -debug "true"
